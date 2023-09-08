@@ -10,7 +10,7 @@ A computer vision model to classify images of plots by `R` functions used to gen
 pip install -r requirements.txt
 ```
 
-2. Run `train.ipynb`
+2. Run [`train.ipynb`](train.ipynb)
 
 Google Colab: https://colab.research.google.com/drive/1MxyUbv9AzxFteM834J0svV1gTEZj4Guh
 
@@ -28,4 +28,4 @@ git clone https://github.com/ezraporter/R-graph-gallery.git R-graph-gallery
 renv::restore()
 ```
 
-3. Run `create-graph-gallery-data.R`
+3. Run [`create-graph-gallery-data.R`](create-graph-gallery-data.R)
